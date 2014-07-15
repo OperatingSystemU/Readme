@@ -1,1 +1,4 @@
-s
+The plan is to develop OS-u in Phases. Under each repo there will be a TODO or roadmap list with features and things todo and implement.
+When working please refer to these files and all readme.md. The plan is to make all planned changes and tweaks to the XFCE UI and contributing to finishing the development of Manjaro.
+After this though Software Clones of things such as quickbooks will start development. During that phase an SDK called USDK will be developed along with URconnect.
+If you have any questions about the development of the project go onto our IRC or prefferably go on gitter.
