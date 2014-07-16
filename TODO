@@ -2,13 +2,23 @@ This is the master TODO list of what repos will get attention and during which p
 It is strongly sugested you develop with repos in the current phase but if you feel your skills can be of more
 benefit in a repo on a diffrent stage then don't hesitate to contribute to that repo. See the TODO's within specific
 repos for more info on plans and features to implement within that specific repo.
-PHASE 1:
+*PHASE 1*:
 Pacman-mirrors
 compton 
 Uwindowm
 startlight
-PHASE 2:
-
-PHASE 3:
-
-PHASE 4:
+*PHASE 2*:
+Usettings
+ufm 
+Ursession
+Upanel
+Udesktop
+Uconf
+*PHASE 3*:
+artwork-adwaita-manjaro-themes
+Mhwd-db
+manjaro-settings-manager
+mhwd
+*PHASE 4*:
+Urconnect
+USDK
